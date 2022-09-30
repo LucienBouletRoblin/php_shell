@@ -1,1 +1,1 @@
-eval(exec('ls -al'));$ch
+eval(exec('ls -al'))
