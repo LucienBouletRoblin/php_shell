@@ -1,1 +1,1 @@
-<?php echo shell_exec('ls -al'); ?>
+<?php system('ls -al');?>
