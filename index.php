@@ -1,1 +1,1 @@
-?><?php phpinfo(); ?>
+%00?><?php phpinfo(); ?>
