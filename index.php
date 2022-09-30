@@ -1,1 +1,1 @@
-system('ls -al')
+exec('ls -al')
